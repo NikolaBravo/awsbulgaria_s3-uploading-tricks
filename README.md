@@ -1,0 +1,1 @@
+Demo code for "S3 Uploading Tricks" presentation - AWSBulgaria meetup on June 9 2016
